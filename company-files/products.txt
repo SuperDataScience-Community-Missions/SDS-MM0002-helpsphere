@@ -1,0 +1,177 @@
+# TechStyle Global - Product Catalog
+
+## Consumer Electronics
+
+### Smartphones & Accessories
+- TechStyle Smartphone Stand Pro
+  - Price: $29.99
+  - Adjustable aluminum stand
+  - Compatible with all smartphones
+  - Colors: Silver, Black, Rose Gold
+
+- Premium Screen Protector Set
+  - Price: $19.99
+  - 9H hardness tempered glass
+  - Oleophobic coating
+  - Pack of 3
+
+- Wireless Charging Pad
+  - Price: $39.99
+  - 15W fast charging
+  - LED charging indicator
+  - Compatible with Qi devices
+
+### Laptops & Computing
+- PowerBook Pro 15"
+  - Price: $1299.99
+  - Intel i7 processor
+  - 16GB RAM
+  - 512GB SSD
+  - NVIDIA Graphics
+
+- UltraBook Air 13"
+  - Price: $899.99
+  - AMD Ryzen 5
+  - 8GB RAM
+  - 256GB SSD
+  - 18-hour battery life
+
+- Laptop Accessories Bundle
+  - Price: $79.99
+  - Wireless mouse
+  - Laptop sleeve
+  - USB-C hub
+  - Cleaning kit
+
+## Smart Home Devices
+
+### Security
+- SmartCam Pro
+  - Price: $149.99
+  - 2K resolution
+  - Night vision
+  - Two-way audio
+  - Cloud storage included
+
+- Smart Door Lock
+  - Price: $199.99
+  - Fingerprint sensor
+  - PIN code entry
+  - Smartphone control
+  - Battery backup
+
+### Home Automation
+- Smart Light Starter Kit
+  - Price: $89.99
+  - 4 smart bulbs
+  - Hub included
+  - Voice control
+  - 16 million colors
+
+- Smart Thermostat
+  - Price: $129.99
+  - Energy saving
+  - Schedule programming
+  - Remote control
+  - Usage analytics
+
+## Wearable Technology
+
+### Fitness Trackers
+- FitStyle Pro
+  - Price: $149.99
+  - Heart rate monitoring
+  - Sleep tracking
+  - 7-day battery life
+  - Water resistant
+
+- SportBand Lite
+  - Price: $79.99
+  - Step counting
+  - Basic sleep tracking
+  - 14-day battery life
+  - 5 color options
+
+### Smartwatches
+- TechWatch Premium
+  - Price: $299.99
+  - AMOLED display
+  - ECG monitoring
+  - GPS
+  - 50+ sport modes
+
+- TechWatch Lite
+  - Price: $199.99
+  - LCD display
+  - Heart rate monitoring
+  - Basic fitness tracking
+  - 2-week battery life
+
+## TechStyle Basics (Private Label)
+
+### Cables & Chargers
+- Premium USB-C Cable
+  - Price: $14.99
+  - 6ft length
+  - Braided nylon
+  - Fast charging
+  - Colors: Black, White
+
+- Power Bank 10000mAh
+  - Price: $34.99
+  - Dual USB ports
+  - Fast charging
+  - LED indicator
+  - Compact design
+
+### Audio
+- TechStyle Wireless Earbuds
+  - Price: $69.99
+  - 24-hour battery
+  - Touch controls
+  - Water resistant
+  - Noise isolation
+
+- TechStyle Over-Ear Headphones
+  - Price: $89.99
+  - Bluetooth 5.0
+  - 30-hour battery
+  - Foldable design
+  - Carrying case included
+
+## Special Offers
+
+### TechStyle Plus Member Benefits
+- 10% discount on all products
+- Free express shipping
+- Early access to new products
+- Extended warranty
+- Priority customer support
+
+### Bundles
+- Work From Home Bundle
+  - Price: $1499.99
+  - UltraBook Air 13"
+  - Wireless Mouse
+  - External Monitor
+  - Desk Stand
+  - Webcam
+
+- Smart Home Starter Bundle
+  - Price: $299.99
+  - SmartCam Pro
+  - Smart Light Kit
+  - Smart Plug (2-pack)
+  - Voice Assistant
+
+### Warranty Information
+- All products include standard 1-year warranty
+- TechStyle Plus members get additional 1-year warranty
+- 30-day money-back guarantee
+- Free technical support
+
+### Shipping Options
+- Standard Shipping (3-5 days): Free over $50
+- Express Shipping (1-2 days): $9.99
+- International Shipping: Available to select countries
+- TechStyle Plus members get free express shipping

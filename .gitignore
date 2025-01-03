@@ -1,0 +1,12 @@
+# Environment variable files
+.env
+
+# Virtual environment directories
+.venv
+
+# Misc files to ignore
+.DS_Store
+.devcontainer
+
+# To be released at the final date of submission
+/solutions

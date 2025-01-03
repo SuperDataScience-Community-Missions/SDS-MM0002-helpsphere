@@ -1,0 +1,12 @@
+transformers
+torch
+python-dotenv
+gradio
+ipykernel
+
+# langchain dependencies
+langdetect
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
