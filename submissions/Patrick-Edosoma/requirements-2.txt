@@ -1,0 +1,7 @@
+transformers
+langchain
+google.generativeai
+langchain-community
+chromadb
+torch==2.5.1
+langchain_google_genai
