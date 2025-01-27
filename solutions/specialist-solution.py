@@ -44,6 +44,8 @@ def chatbot(message, history):
 
     Do not make anything up yourself. If you do not know the ansewr to a question, clearly say so.
 
+    If you do not have information about a product or a policy the user is asking about then reply by saying you do not know the answer to their question.
+
     Do not thank the user for giving you any information.
 
     Keep your responses short and concise.
@@ -53,12 +55,15 @@ def chatbot(message, history):
     messages.append({"role":"user","content":message})
 
     HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
+    if not HUGGINGFACE_API_KEY:
+        raise ValueError("HUGGINGFACE_API_KEY not found. Please check your .env file.")
+    
     client = InferenceClient(api_key=HUGGINGFACE_API_KEY)
 
     stream = client.chat.completions.create(
         model="meta-llama/Llama-3.2-3B-Instruct", 
         messages=messages, 
-        max_tokens=500,
+        max_tokens=1000,
         stream=True
     )
 
