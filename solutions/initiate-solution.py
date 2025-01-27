@@ -36,7 +36,7 @@ messages = [
 ]
 
 stream = client.chat.completions.create(
-    model="Qwen/Qwen2-VL-2B-Instruct", 
+    model="meta-llama/Llama-3.2-3B-Instruct", 
     messages=messages, 
     max_tokens=500,
     stream=True
