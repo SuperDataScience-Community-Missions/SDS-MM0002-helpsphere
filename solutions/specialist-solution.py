@@ -63,7 +63,7 @@ def chatbot(message, history):
     stream = client.chat.completions.create(
         model="meta-llama/Llama-3.2-3B-Instruct", 
         messages=messages, 
-        max_tokens=1000,
+        max_tokens=500,
         stream=True
     )
 
